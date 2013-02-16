@@ -11,5 +11,5 @@ wlt scaffold full
 You can find more informations about Web Log Today here :
 
 * http://eunomie.info : current location of the website generated using the sources
-* [wlt](https://github.com/CrEv/wlt) : sources of the `wlt` command (in fact the real Web Log Today source code)
+* [wlt](https://github.com/eunomie/wlt) : sources of the `wlt` command (in fact the real Web Log Today source code)
 * [log.winsos.net](http://log.winsos.net) : the first website generated with Web Log Today (in french)
