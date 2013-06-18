@@ -21,7 +21,7 @@ The main features are :
 
 The main command, `wlt`, is created using [sub][] from [37 signals][].
 
-The current website is created using « Web Log Today » and you can find the source code [here](https://github.com/CrEv/web_log_today).
+The current website is created using « Web Log Today » and you can find the source code [here](https://github.com/eunomie/eunomie.info).
 
 To go deeper, see the [documentation](doc.html).
 

@@ -90,7 +90,7 @@ default_description: My personal weblog
 accounts:
     twitter: https://twitter.com/_crev_
     gplus: https://plus.google.com/112813954986166280487
-    github: http://github.com/CrEv
+    github: http://github.com/eunomie
     coderwall: https://coderwall.com/crev
     linkedin: http://fr.linkedin.com/in/yvesbrissaud
 

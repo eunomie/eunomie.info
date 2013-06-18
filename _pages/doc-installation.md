@@ -11,7 +11,7 @@ You just need git, ruby 1.9.3 and gem.
 1. Get the sources in `~/.wlt` by example
     
     ```sh
-    git clone git://github.com/CrEv/wlt.git ~/.wlt
+    git clone git://github.com/eunomie/wlt.git ~/.wlt
     ```
 
 2. Run [bundler][]

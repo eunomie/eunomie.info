@@ -10,4 +10,4 @@ Today is the first release of [Web Log Today][wlt]!
 
 Read the docs, the code, and do your own blog!
 
-[wlt]: https://github.com/CrEv/wlt
+[wlt]: https://github.com/eunomie/wlt
